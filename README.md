@@ -2,7 +2,7 @@
 
 ## For learners
 
-This repository keeps track of the code being written by the instructor
+This repository keeps track of the code being written by the instructor:
 - refresh the page regularly to see the current changes
 - use it to catch up or as a reference when running into errors
 - the folder structure is a good starting point when creating a project yourself
